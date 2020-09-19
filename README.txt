@@ -1,5 +1,5 @@
 Untold Stories is a platform to share photographs and stories
-Visit: https://manjumaney.github.io/UntoldStories/
+Visit: https://untold-stories.ml/
 Anyone who wants to contribute is welcomed.
 \\  July 2020
 \\ Template:  Highway Template
